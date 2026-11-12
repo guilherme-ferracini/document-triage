@@ -1,0 +1,9 @@
+file,category,team,confidence,cnpj,date,amount,warnings
+01_nfse_bussola_4512.txt,invoice,Tax,1.0,11.222.333/0001-81,2026-10-03,15300.00,
+02_danfe_aurora_88127.txt,invoice,Tax,1.0,77.888.999/0001-81,2026-10-07,4200.00,
+03_extrato_outubro.txt,bank_statement,Accounting,1.0,77.888.999/0001-81,2026-09-30,82410.33,
+04_holerite_maria.txt,payslip,Payroll,1.0,77.888.999/0001-81,2026-11-05,4800.00,
+05_das_setembro.txt,tax_payment_slip,Tax,1.0,11.222.333/0001-81,2026-10-20,6268.61,
+06_contrato_prestacao.txt,contract,Legal,1.0,12.312.312/0001-10,2026-11-01,1850.00,
+07_plano_saude_out.txt,health_plan_invoice,Payroll,0.92,98.765.432/0001-99,2026-11-10,19732.50,Invalid CNPJ check digits: 98.765.432/0001-99
+08_bilhete_cliente.txt,unknown,Manual review,0.0,,2026-11-12,,Low confidence (0.00): sent to manual review.
