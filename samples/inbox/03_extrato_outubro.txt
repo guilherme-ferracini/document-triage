@@ -1,0 +1,7 @@
+EXTRATO DE CONTA CORRENTE - OUTUBRO/2026
+Banco Exemplo S.A.  Agencia 0001  Conta corrente 12345-6
+Titular: Aurora Distribuidora Ltda  CNPJ 77.888.999/0001-81
+Saldo anterior em 30/09/2026: R$ 82.410,33
+01/10 PIX RECEBIDO ALFA COMERCIO  R$ 15.300,00
+10/10 PAGTO FOLHA SALARIOS  R$ 48.930,45
+Saldo final em 31/10/2026: R$ 61.872,07

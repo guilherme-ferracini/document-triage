@@ -1,0 +1,7 @@
+RECIBO DE PAGAMENTO DE SALARIO (HOLERITE)
+Empregador: Aurora Distribuidora Ltda  CNPJ 77.888.999/0001-81
+Empregado: Maria Souza   Competencia: 10/2026   Pago em 05/11/2026
+Proventos: Salario base R$ 4.800,00
+Descontos: INSS R$ 434,35
+FGTS do mes: R$ 384,00
+Liquido a receber: R$ 4.365,65

@@ -1,0 +1,7 @@
+NOTA FISCAL DE SERVICOS ELETRONICA - NFS-e
+Numero: 4512   Data de emissao: 03/10/2026
+Prestador: Bussola Software Ltda  CNPJ 11.222.333/0001-81
+Tomador: Alfa Comercio Ltda  CNPJ 44.555.666/0001-81
+Discriminacao: Licenca de uso de software - outubro/2026
+Valor total da nota: R$ 15.300,00
+ISS retido: Nao

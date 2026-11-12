@@ -1,0 +1,6 @@
+DANFE - Documento Auxiliar da Nota Fiscal Eletronica
+NF-e No 88127 Serie 1  Emissao 07/10/2026
+Chave de acesso: 4126 1011 2223 3300 0155 5500 1000 0881 2710 0000 0000
+Emitente: Aurora Distribuidora Ltda  CNPJ 77.888.999/0001-81
+Destinatario: Gama Industria Ltda
+Valor total da nota: R$ 4.200,00
